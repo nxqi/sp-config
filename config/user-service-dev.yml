@@ -9,8 +9,7 @@ spring:
     host: 192.168.23.133
     port: 5672
     username: admin
-    password: admin      
-    
+    password: admin        
   cloud:
     config:
       override-none: true
